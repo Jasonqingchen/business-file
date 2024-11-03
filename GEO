@@ -1,0 +1,10 @@
+Order1
+Price 3390$ profi: X
+
+Detail
+ Product menu
+ 1 solar water pump 40pcs (2 type 24v and 48 v) price 18$ and 18.5$
+ 2 TV wallmount 1000pcs 1.9$
+ 3 32G USB flash 3$
+
+ total 3390$
